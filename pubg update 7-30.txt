@@ -92,8 +92,7 @@ add address=199.232.213.0/24 disabled=no dynamic=no list="PUBG MOBILE"
 add address=43.157.20.0/24 disabled=no dynamic=no list="PUBG MOBILE"
 add address=43.152.42.0/24 disabled=no dynamic=no list="PUBG MOBILE"
 
-# ===== DOMAINS =====
-/ip firewall address-list
+
 add list="Server-PUBG_Global" address="cdn.pubgmobile.com" comment="PUBG CDN"
 add list="Server-PUBG_Global" address="dlied1.qq.com" comment="Tencent Download Server"
 add list="Server-PUBG_Global" address="dlied2.qq.com" comment="Tencent Download Server"
