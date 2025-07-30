@@ -1,0 +1,101 @@
+# ===== DOMAINS =====
+/ip firewall address-list
+add list="Server-PUBG_Global" address="cdn.pubgmobile.com" comment="PUBG CDN"
+add list="Server-PUBG_Global" address="dlied1.qq.com" comment="Tencent Download Server"
+add list="Server-PUBG_Global" address="dlied2.qq.com" comment="Tencent Download Server"
+add list="Server-PUBG_Global" address="dlied3.qq.com" comment="Tencent Download Server"
+add list="Server-PUBG_Global" address="dlied4.qq.com" comment="Tencent Download Server"
+add list="Server-PUBG_Global" address="gcloud.qq.com" comment="Tencent Game Cloud"
+add list="Server-PUBG_Global" address="cloud.tencent.com" comment="Tencent Cloud"
+add list="Server-PUBG_Global" address="igamecj.com" comment="Game Services"
+add list="Server-PUBG_Global" address="tencentgames.helpshift.com" comment="Support"
+add list="Server-PUBG_Global" address="hysdk.com" comment="HY SDK"
+add list="Server-PUBG_Global" address="syzs.qq.com" comment="Game Services"
+add list="Server-PUBG_Global" address="tgp.qq.com" comment="Tencent Gaming Platform"
+add list="Server-PUBG_Global" address="gamesafe.qq.com" comment="Anti-Cheat"
+add list="Server-PUBG_Global" address="cdn.igamecj.com" comment="Game CDN"
+add list="Server-PUBG_Global" address="cdn.midasbuy.com" comment="In-Game Purchases"
+add list="Server-PUBG_Global" address="midasbuy.com" comment="In-Game Purchases"
+add list="Server-PUBG_Global" address="pfs-dl.igamecj.com" comment="Patch Download"
+add list="Server-PUBG_Global" address="aog.tencent.com" comment="Alloy Game Engine"
+add list="Server-PUBG_Global" address="qos-gcloud.gcloudcs.com" comment="QoS Service"
+add list="Server-PUBG_Global" address="qosapi.gcloudcs.com" comment="QoS API"
+add list="Server-PUBG_Global" address="qos.gcloudcs.com" comment="QoS Main"
+add list="Server-PUBG_Global" address="qos.gcloudcs.com.cn" comment="QoS China"
+add list="Server-PUBG_Global" address="static.gcloudcs.com" comment="Static Resources"
+add list="Server-PUBG_Global" address="oth.eve.mdt.qq.com" comment="Telemetry"
+add list="Server-PUBG_Global" address="beacon.tdos.qq.com" comment="Analytics"
+add list="Server-PUBG_Global" address="resolver.msg.xiaomi.net" comment="Xiaomi Push"
+add list="Server-PUBG_Global" address="hk-vmp.gcloudcs.com" comment="Hong Kong Proxy"
+
+# ===== REGIONAL SERVERS (GCLOUD) =====
+# Middle East (ME)
+add list="Server-PUBG_Global" address="me-lobby-cfg.gcloudcs.com" comment="ME Lobby"
+add list="Server-PUBG_Global" address="me-game-cfg.gcloudcs.com" comment="ME Game Config"
+add list="Server-PUBG_Global" address="me-gos-cfg.gcloudcs.com" comment="ME GOS Config"
+add list="Server-PUBG_Global" address="me-match.gcloudcs.com" comment="ME Matchmaking"
+
+# Europe (EU)
+add list="Server-PUBG_Global" address="eu-lobby-cfg.gcloudcs.com" comment="EU Lobby"
+add list="Server-PUBG_Global" address="eu-game-cfg.gcloudcs.com" comment="EU Game Config"
+add list="Server-PUBG_Global" address="eu-gos-cfg.gcloudcs.com" comment="EU GOS Config"
+add list="Server-PUBG_Global" address="eu-match.gcloudcs.com" comment="EU Matchmaking"
+
+# North America (NA)
+add list="Server-PUBG_Global" address="na-lobby-cfg.gcloudcs.com" comment="NA Lobby"
+add list="Server-PUBG_Global" address="na-game-cfg.gcloudcs.com" comment="NA Game Config"
+add list="Server-PUBG_Global" address="na-gos-cfg.gcloudcs.com" comment="NA GOS Config"
+add list="Server-PUBG_Global" address="na-match.gcloudcs.com" comment="NA Matchmaking"
+
+# Southeast Asia (SEA)
+add list="Server-PUBG_Global" address="sea-lobby-cfg.gcloudcs.com" comment="SEA Lobby"
+add list="Server-PUBG_Global" address="sea-game-cfg.gcloudcs.com" comment="SEA Game Config"
+add list="Server-PUBG_Global" address="sea-gos-cfg.gcloudcs.com" comment="SEA GOS Config"
+add list="Server-PUBG_Global" address="sea-match.gcloudcs.com" comment="SEA Matchmaking"
+
+# ===== STATIC IPs (PUBG SERVERS) =====
+# Europe
+add list="Server-PUBG_Global" address=35.156.63.252 comment="EU Frankfurt 1"
+add list="Server-PUBG_Global" address=52.29.125.80 comment="EU Frankfurt 2"
+add list="Server-PUBG_Global" address=52.58.95.114 comment="EU Frankfurt 3"
+add list="Server-PUBG_Global" address=35.157.61.4 comment="EU Frankfurt 4"
+add list="Server-PUBG_Global" address=35.176.0.252 comment="UK London 1"
+add list="Server-PUBG_Global" address=52.56.34.0 comment="UK London 2"
+add list="Server-PUBG_Global" address=52.16.0.2 comment="Ireland 1"
+add list="Server-PUBG_Global" address=54.216.0.1 comment="Ireland 2"
+
+# Americas
+add list="Server-PUBG_Global" address=13.56.63.251 comment="US California"
+add list="Server-PUBG_Global" address=34.208.63.251 comment="US Oregon 1"
+add list="Server-PUBG_Global" address=52.24.63.252 comment="US Oregon 2"
+add list="Server-PUBG_Global" address=35.182.0.251 comment="Canada 1"
+add list="Server-PUBG_Global" address=52.60.50.0 comment="Canada 2"
+add list="Server-PUBG_Global" address=52.67.255.254 comment="Brazil Sao Paulo"
+add list="Server-PUBG_Global" address=54.94.0.66 comment="Brazil 2"
+add list="Server-PUBG_Global" address=177.71.255.255 comment="Brazil 3"
+
+# Asia-Pacific
+add list="Server-PUBG_Global" address=13.228.0.251 comment="Singapore 1"
+add list="Server-PUBG_Global" address=52.76.191.252 comment="Singapore 2"
+add list="Server-PUBG_Global" address=175.41.146.190 comment="Singapore 3"
+add list="Server-PUBG_Global" address=13.112.63.251 comment="Japan 1"
+add list="Server-PUBG_Global" address=52.68.63.252 comment="Japan 2"
+add list="Server-PUBG_Global" address=54.150.0.255 comment="Japan 3"
+add list="Server-PUBG_Global" address=13.124.63.251 comment="Korea 1"
+add list="Server-PUBG_Global" address=52.78.63.252 comment="Korea 2"
+add list="Server-PUBG_Global" address=13.126.0.252 comment="India 1"
+add list="Server-PUBG_Global" address=52.66.66.2 comment="India 2"
+add list="Server-PUBG_Global" address=13.54.63.252 comment="Australia 1"
+add list="Server-PUBG_Global" address=52.62.63.252 comment="Australia 2"
+add list="Server-PUBG_Global" address=54.153.191.252 comment="Australia 3"
+
+# ===== IP RANGES (CIDR) =====
+add list="Server-PUBG_Global" address=43.249.37.0/24 comment="PUBG Singapore"
+add list="Server-PUBG_Global" address=45.121.32.0/22 comment="Tencent Games"
+add list="Server-PUBG_Global" address=150.109.124.0/24 comment="Tencent Cloud"
+add list="Server-PUBG_Global" address=152.32.128.0/20 comment="PUBG Asia"
+add list="Server-PUBG_Global" address=185.239.226.0/24 comment="Middle East"
+add list="Server-PUBG_Global" address=157.255.0.0/16 comment="Tencent CDN"
+add list="Server-PUBG_Global" address=8.208.80.0/24 comment="Global PUBG"
+add list="Server-PUBG_Global" address=43.130.0.0/16 comment="Tencent CDN"
+add list="Server-PUBG_Global" address=101.32.0.0/16 comment="Tencent Cloud"
