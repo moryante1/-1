@@ -13,3 +13,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 4-مصر دراما
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/manifest/video/720p1750kbps/video.m3u8
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/manifest/audio1/192kbps/audio.m3u8
+
+5-قناة مرايا
+https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
