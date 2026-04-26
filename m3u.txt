@@ -16,3 +16,7 @@ https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598
 
 5-قناة مرايا
 https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
+
+6-العربية
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/manifest/video/720p1750kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/manifest/audio1/192kbps/audio.m3u8
