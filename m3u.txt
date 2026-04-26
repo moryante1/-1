@@ -20,3 +20,6 @@ https://shd-amg-fast.edgenextcdn.net/tx008/1080p-d/index.m3u8
 6-العربية
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/manifest/video/720p1750kbps/video.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/manifest/audio1/192kbps/audio.m3u8
+
+7-MBC3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3/946fc698e47c30df2193962ca541d868/index.mpd?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
