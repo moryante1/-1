@@ -37,3 +37,7 @@ https://shd-amg-fast.lg.mncdn.com/tx010/720p-d/index.m3u8
 11-ناصر القصبي
 https://shd-amg-fast.edgenextcdn.net/tx017/1080p-d/index.m3u8
 
+12-mbc4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/720p1750kbps/video.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/audio1/192kbps/audio.m3u8
+
