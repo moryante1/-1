@@ -24,3 +24,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3da
 7-spacetoon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/audio1/192kbps/audio.m3u8
+
+8-الكبير
+https://shd-amg-fast.edgenextcdn.net/tx013/1080p-d/index.m3u8
+
+9-طاش
+https://shd-amg-fast.edgenextcdn.net/tx015/1080p-d/index.m3u8
