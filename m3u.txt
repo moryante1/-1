@@ -30,3 +30,6 @@ https://shd-amg-fast.edgenextcdn.net/tx013/1080p-d/index.m3u8
 
 9-طاش
 https://shd-amg-fast.edgenextcdn.net/tx015/1080p-d/index.m3u8
+
+10-باب الحارة
+https://shd-amg-fast.lg.mncdn.com/tx010/720p-d/index.m3u8
