@@ -48,3 +48,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 14-افلام
 https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8
 
+15-فيفا
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-fifa-plus/cbf387ad92f13b24a3be8a5c99e77835/manifest/video/720p1750kbps/video.m3u8
+
+
