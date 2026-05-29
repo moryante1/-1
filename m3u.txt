@@ -52,5 +52,6 @@ https://shd-amg-fast.edgenextcdn.net/tx001/720p-d/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-fifa-plus/cbf387ad92f13b24a3be8a5c99e77835/manifest/video/720p1750kbps/video.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-fifa-plus/cbf387ad92f13b24a3be8a5c99e77835/manifest/audio1/192kbps/audio.m3u8
 
-
+16-bain
+205.237.105.25:8080/live/351937210747/208919406064/571153.ts?token=cbfazU.yUXH.X.Uafd.ydzbXaXffc.X.y.IR.ts.fc4f2f1a2d4f94571ea7e129bfb73d4f01c9a0eb61e746cc544d7f0d4e89e561.31549.QXJpYSBTaGF0ZWwgUEpTQw==.ZGFycGxheWVyLnh5ejo4MDgw
 
